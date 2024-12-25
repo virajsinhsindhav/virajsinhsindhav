@@ -19,6 +19,12 @@ I'm a passionate Laravel developer with a keen interest in building scalable web
 - jQuery & Ajax
 - Docker & CI/CD
 
+## Additional Skills:
+
+- Payment Gateway integration. Stripe, Razorpay, Paypal, BillDesk, etc.
+- SMS service integration with Twilio, MSG91 and other providers.
+- Version control tools like, GitLab, GitHub, Bit bucket.
+
 Let's connect and build something awesome together! 😄🚀
 
 <!---
