@@ -12,11 +12,11 @@ I'm a passionate Laravel developer with a keen interest in building scalable web
 ## Technologies I work with:
 
 - PHP (Laravel)
-- JavaScript
-- HTML5 & CSS3
-- MySQL
-- jQuery & Ajax
 - Livewire
+- JavaScript
+- MySQL
+- HTML5 & CSS3
+- jQuery & Ajax
 - Docker & CI/CD
 
 Let's connect and build something awesome together! 😄🚀
